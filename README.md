@@ -370,10 +370,10 @@ Studied leading AI interfaces to identify best practices:
 **Assessment Deadline**: Within 3 days of assignment  
 
 ### **Contact Information**
-- **Developer**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio URL]
+- **Developer**: [Shivam Kumar Pandey]
+- **Email**: [shivamkumarpandey3971@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/shivamkumarpandey50/]
+- **Portfolio**: [https://shivam-pandey-portfolio.netlify.app/]
 
 ---
 

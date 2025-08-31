@@ -7,7 +7,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3+-38B2AC?style=flat-square&logo=tailwind-css)
 ![React](https://img.shields.io/badge/React-18.2+-61DAFB?style=flat-square&logo=react)
 
-**🚀 Live Demo**: [Your Deployed URL Here]  
+**🚀 Live Demo**: [https://ai-chat-interface-zeta.vercel.app/]  
 **📋 Assessment Submission**: Frontend & UI/UX Designer Position
 
 ---
@@ -143,7 +143,6 @@ npm run lint
 
 ```
 ai-chat-interface/
-├── .bolt/                    # Bolt configuration
 ├── app/                      # Next.js App Router
 │   ├── globals.css          # Global styles
 │   ├── layout.tsx           # Root layout
